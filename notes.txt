@@ -1,0 +1,5 @@
+React listens to changes,made by hooks
+Hooks-function
+It starts with use
+usestate
+Const[state,setstate]= useState(initialValue)
